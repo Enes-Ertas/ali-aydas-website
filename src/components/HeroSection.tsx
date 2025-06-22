@@ -48,7 +48,7 @@ export default function HeroSection() {
         {/* Sağ: Görsel */}
         <div className="flex-1">
           <Image
-            src="/logo-ali-aydas.png"
+            src="/logo-ali-aydas-4.png"
             alt="coin hero"
             width={400}
             height={400}
