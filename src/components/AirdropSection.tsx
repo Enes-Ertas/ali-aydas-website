@@ -12,11 +12,11 @@ export default function AirdropSection() {
 
 <div className="text-base md:text-lg space-y-4 mb-8 text-white">
   <p>
-    The WICKD token is launching soon — and we'apos;re kicking it off with a limited airdrop for early supporters. This is your chance to be part of something fresh, bold, and community-driven from day one.
+    The WICKD token is launching soon — and we&apos;re kicking it off with a limited airdrop for early supporters. This is your chance to be part of something fresh, bold, and community-driven from day one.
   </p>
 
   <p>
-    A snapshot of eligible wallets will be taken on June 25, 2025. If you'apos;re holding WICKD in your wallet by then, you'apos;ll automatically qualify for the airdrop. No registration or manual steps needed.
+    A snapshot of eligible wallets will be taken on June 25, 2025. If you&apos;re holding WICKD in your wallet by then, you&apos;ll automatically qualify for the airdrop. No registration or manual steps needed.
   </p>
 
   <p>
