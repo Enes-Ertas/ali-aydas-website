@@ -12,7 +12,7 @@ export default function Tokenomics() {
 
         {/* Açıklama Paragraf */}
         <p className="text-base md:text-lg max-w-3xl mx-auto mb-12 leading-relaxed">
-          No taxes, no bullshit. It's that simple. 93.1% of the tokens were sent
+          No taxes, no bullshit. It&apos;s that simple. 93.1% of the tokens were sent
           to the liquidity pool, LP tokens were burnt, and contract is renounced.
           The remaining 6.9% is held in a multi-sig wallet only to be used for
           future centralized exchange listings, bridges, and liquidity pools.
