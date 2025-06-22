@@ -20,7 +20,6 @@ export default function Home() {
         <HeroSection />
         <AirdropSection />
         <About />
-        <Tokenomics />
         <HowToBuySection/>
       </main>
     </>
