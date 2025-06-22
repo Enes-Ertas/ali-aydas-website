@@ -6,7 +6,7 @@ export default function HowToBuySection() {
       <div className="max-w-6xl mx-auto text-center">
         {/* Başlık */}
         <h2 className="text-4xl md:text-5xl font-bold text-[#4F9842] mb-12">
-          How to Buy $PEPE
+          How to Buy $WICKD
         </h2>
 
         {/* 3 Adımlı Kutu Yapısı */}
@@ -41,7 +41,7 @@ export default function HowToBuySection() {
               Get Some ETH
             </h3>
             <p className="text-base">
-              Have ETH in your wallet to switch to $PEPE. If you don’t have any ETH, you can buy directly on Metamask, transfer from another wallet, or buy on another exchange and send it to your wallet.
+              Have ETH in your wallet to switch to $WICKD. If you don’t have any ETH, you can buy directly on Metamask, transfer from another wallet, or buy on another exchange and send it to your wallet.
             </p>
           </div>
 
@@ -58,7 +58,7 @@ export default function HowToBuySection() {
               Go to Uniswap
             </h3>
             <p className="text-base">
-              Connect to Uniswap. Go to app.uniswap.org in Google Chrome or on the browser inside your Metamask app. Connect your wallet. Paste the $PEPE token address into Uniswap, select $PEPE, and confirm.
+              Connect to Uniswap. Go to app.uniswap.org in Google Chrome or on the browser inside your Metamask app. Connect your wallet. Paste the $WICKD token address into Uniswap, select $WICKD, and confirm.
             </p>
           </div>
         </div>

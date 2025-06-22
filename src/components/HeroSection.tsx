@@ -10,11 +10,11 @@ export default function HeroSection() {
         {/* Sol: Metin Alanı */}
         <div className="flex-1 text-center md:text-left">
   <h1 className="text-5xl md:text-6xl font-extrabold mb-4 leading-tight">
-    The King of Memecoins Has Arrived 🐸
+    The King of Memecoins Has Arrived 🐶
   </h1>
 
   <p className="text-lg md:text-xl mb-8 max-w-xl">
-    HMY is here to rule the memecoin world. No presale, no taxes, just
+    WICKD is here to rule the memecoin world. No presale, no taxes, just
     pure meme power and community.
   </p>
 
@@ -28,13 +28,13 @@ export default function HeroSection() {
 
   {/* 🔽 Sosyal Medya İkonları */}
   <div className="mt-6 grid grid-cols-4 gap-4 justify-items-center md:justify-items-start">
-    <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
+    <a href="https://x.com/RealWickdog" target="_blank" rel="noopener noreferrer">
       <Image src="/twitter.png" alt="Twitter" width={60} height={60} />
     </a>
         <a href="https://coinmarketcap.com" target="_blank" rel="noopener noreferrer">
       <Image src="/cmc.png" alt="CMC" width={60} height={60} />
     </a>
-    <a href="https://t.me" target="_blank" rel="noopener noreferrer">
+    <a href="https://t.me/wickdognation" target="_blank" rel="noopener noreferrer">
       <Image src="/telegram.png" alt="Telegram" width={60} height={60} />
     </a>
 
@@ -48,7 +48,7 @@ export default function HeroSection() {
         {/* Sağ: Görsel */}
         <div className="flex-1">
           <Image
-            src="/logo-ali-aydas-4.png"
+            src="/image-hero-section.png"
             alt="coin hero"
             width={600}
             height={600}

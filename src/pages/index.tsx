@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>PEPE Landing</title>
+        <title>WICKD Landing</title>
       </Head>
 
       <main

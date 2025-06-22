@@ -5,16 +5,18 @@ export default function Header() {
     <header className="text-white py-4 ">
       <div className="max-w-7xl mx-auto px-4 flex items-center justify-between">
         {/* Logo */}
+         <a href="#home" className="flex items-center space-x-3">
         <div className="flex items-center space-x-3">
           <Image
-            src="/logo-ali-aydas.png" // public klasörüne koyacağız
+            src="/ana-logo.jpeg" // public klasörüne koyacağız
             alt="PEPE Logo"
             width={48}
             height={48}
             className="rounded-full"
           />
-          <span className="text-2xl font-bold tracking-wide">PEPE</span>
+          <span className="text-2xl font-bold tracking-wide">WICKD</span>
         </div>
+        </a>
 
         {/* Navigation */}
         <nav className="hidden md:flex gap-6 text-sm font-medium uppercase">

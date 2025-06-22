@@ -3,24 +3,26 @@ export default function AirdropSection() {
     <section className="text-white py-16 px-4 md:px-8">
       <div className="max-w-5xl mx-auto text-center">
         <h2 className="text-3xl md:text-4xl font-extrabold text-yellow-300 mb-4">
-          Special offer for SOL Holders
+          Special offer for WICKD Holders
         </h2>
 
         <h3 className="text-2xl md:text-3xl font-semibold italic mb-6 text-white">
-          Introducing Pepe (PEPE) on BNSOL Super Stake: HODL BNSOL to Get PEPE APR Boost Airdrop Rewards
-        </h3>
+  Exclusive Airdrop for WICKD Holders: Be Early, Be Rewarded
+</h3>
 
-        <div className="text-base md:text-lg space-y-4 mb-8 text-white">
-          <p>
-            Binance is thrilled to announce the 6th project on BNSOL Super Stake in partnership with our Binance Token Partner, Pepe (PEPE)—a memecoin inspired by the cartoon character <em>Pepe the Frog</em> and launched on Ethereum.
-          </p>
-          <p>
-            Users who hold BNSOL or stake SOL into BNSOL via their Binance account or Binance Wallet between <strong>2025-02-17 00:00 (UTC)</strong> and <strong>2025-03-16 23:59 (UTC)</strong> will receive <strong>PEPE APR Boost Airdrop Rewards</strong>.
-          </p>
-          <p>
-            These rewards are additional PEPE token airdrops distributed on top of the base APR from Binance SOL Staking, offering users an extra boost to their earnings.
-          </p>
-        </div>
+<div className="text-base md:text-lg space-y-4 mb-8 text-white">
+  <p>
+    The WICKD token is launching soon — and we're kicking it off with a limited airdrop for early supporters. This is your chance to be part of something fresh, bold, and community-driven from day one.
+  </p>
+
+  <p>
+    A snapshot of eligible wallets will be taken on June 25, 2025. If you're holding WICKD in your wallet by then, you'll automatically qualify for the airdrop. No registration or manual steps needed.
+  </p>
+
+  <p>
+    Airdrop rewards will be distributed proportionally based on your WICKD balance. The more you hold, the greater your share. Distribution begins on June 30 — don’t miss your chance.
+  </p>
+</div>
 
         <a
           href="https://www.binance.com"
