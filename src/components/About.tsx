@@ -8,7 +8,7 @@ export default function About() {
         <div className="flex-1 flex items-center justify-center">
   <Image
     src="/about-logo-4.png"
-    alt="About Pepe"
+    alt="About Wickd"
     width={500}
     height={500}
     className="mx-auto"

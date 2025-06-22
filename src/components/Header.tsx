@@ -9,7 +9,7 @@ export default function Header() {
         <div className="flex items-center space-x-3">
           <Image
             src="/ana-logo.jpeg" // public klasörüne koyacağız
-            alt="PEPE Logo"
+            alt="WICKD Logo"
             width={48}
             height={48}
             className="rounded-full"
