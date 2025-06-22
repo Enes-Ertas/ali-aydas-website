@@ -3,7 +3,7 @@ export default function AirdropSection() {
     <section className="text-white py-16 px-4 md:px-8">
       <div className="max-w-5xl mx-auto text-center">
         <h2 className="text-3xl md:text-4xl font-extrabold text-yellow-300 mb-4">
-          Special offer for WICKD Holders
+          Special offer for WICKDOG Holders
         </h2>
 
         <h3 className="text-2xl md:text-3xl font-semibold italic mb-6 text-white">
@@ -12,15 +12,15 @@ export default function AirdropSection() {
 
 <div className="text-base md:text-lg space-y-4 mb-8 text-white">
   <p>
-    The WICKD token is launching soon — and we&apos;re kicking it off with a limited airdrop for early supporters. This is your chance to be part of something fresh, bold, and community-driven from day one.
+    The WICKDOG token is launching soon — and we&apos;re kicking it off with a limited airdrop for early supporters. This is your chance to be part of something fresh, bold, and community-driven from day one.
   </p>
 
   <p>
-    A snapshot of eligible wallets will be taken on June 25, 2025. If you&apos;re holding WICKD in your wallet by then, you&apos;ll automatically qualify for the airdrop. No registration or manual steps needed.
+    A snapshot of eligible wallets will be taken on June 25, 2025. If you&apos;re holding WICKDOG in your wallet by then, you&apos;ll automatically qualify for the airdrop. No registration or manual steps needed.
   </p>
 
   <p>
-    Airdrop rewards will be distributed proportionally based on your WICKD balance. The more you hold, the greater your share. Distribution begins on June 30 — don’t miss your chance.
+    Airdrop rewards will be distributed proportionally based on your WICKDOG balance. The more you hold, the greater your share. Distribution begins on June 30 — don’t miss your chance.
   </p>
 </div>
 

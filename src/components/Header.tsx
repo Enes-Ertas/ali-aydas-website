@@ -14,7 +14,7 @@ export default function Header() {
             height={48}
             className="rounded-full"
           />
-          <span className="text-2xl font-bold tracking-wide">WICKD</span>
+          <span className="text-2xl font-bold tracking-wide">WICKDOG</span>
         </div>
         </a>
 

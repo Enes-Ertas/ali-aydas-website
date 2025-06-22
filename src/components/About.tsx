@@ -17,14 +17,14 @@ export default function About() {
 
         {/* Sağ: Metin */}
         <div className="flex flex-1 flex-col justify-center text-center md:text-left">
-  <h2 className="text-4xl md:text-5xl font-bold text-[#4F9842] mb-6">What is $WICKD?</h2>
+  <h2 className="text-4xl md:text-5xl font-bold text-[#4F9842] mb-6">What is WICKDOG?</h2>
 
   <p className="text-base md:text-lg mb-6 leading-relaxed">
-  WICKD is a next-generation community token — launched with zero presale, zero taxes, and zero empty promises. No VC funding, no centralized control, just a bold experiment in decentralized meme culture.
+  WICKDOG is a next-generation community token — launched with zero presale, zero taxes, and zero empty promises. No VC funding, no centralized control, just a bold experiment in decentralized meme culture.
 </p>
 
 <p className="text-lg md:text-xl font-semibold text-[#4F9842]">
-  WICKD is for the people — from the ground up. No fluff. No fees. Just vibes.
+  WICKDOG is for the people — from the ground up. No fluff. No fees. Just vibes.
 </p>
 
 </div>
