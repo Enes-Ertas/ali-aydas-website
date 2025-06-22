@@ -50,8 +50,8 @@ export default function HeroSection() {
           <Image
             src="/logo-ali-aydas-4.png"
             alt="coin hero"
-            width={400}
-            height={400}
+            width={600}
+            height={600}
             className="mx-auto"
             priority
           />
