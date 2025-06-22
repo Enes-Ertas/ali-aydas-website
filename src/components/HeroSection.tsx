@@ -29,17 +29,17 @@ export default function HeroSection() {
   {/* 🔽 Sosyal Medya İkonları */}
   <div className="mt-6 grid grid-cols-4 gap-4 justify-items-center md:justify-items-start">
     <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
-      <img src="/twitter.png" alt="Twitter" width={60} height={60} />
+      <Image src="/twitter.png" alt="Twitter" width={60} height={60} />
     </a>
         <a href="https://coinmarketcap.com" target="_blank" rel="noopener noreferrer">
-      <img src="/cmc.png" alt="CMC" width={60} height={60} />
+      <Image src="/cmc.png" alt="CMC" width={60} height={60} />
     </a>
     <a href="https://t.me" target="_blank" rel="noopener noreferrer">
-      <img src="/telegram.png" alt="Telegram" width={60} height={60} />
+      <Image src="/telegram.png" alt="Telegram" width={60} height={60} />
     </a>
 
     <a href="https://app.uniswap.org" target="_blank" rel="noopener noreferrer">
-      <img src="/uniswap.png" alt="Uniswap" width={60} height={60} />
+      <Image src="/uniswap.png" alt="Uniswap" width={60} height={60} />
     </a>
   </div>
 </div>
