@@ -14,7 +14,10 @@ export default function Home() {
       </Head>
 
       <main
-  className="min-h-screen bg-cover bg-center text-white"
+    className="min-h-screen text-white
+             bg-center bg-repeat
+             bg-[length:100vw_100vh]
+             sm:bg-cover sm:bg-no-repeat"
   style={{ backgroundImage: "url('/site-background.png')" }}>
         <Header />
         <HeroSection />
