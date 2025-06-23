@@ -1,7 +1,6 @@
 import Head from "next/head"
 import Header from "@/components/Header" // Eğer alias yoksa: ../components/Header
 import HeroSection from "@/components/HeroSection"
-import Tokenomics from "@/components/Tokenomics"
 import About from "@/components/About"
 import AirdropSection from "@/components/AirdropSection"
 import HowToBuySection from "@/components/HowToBuy"
