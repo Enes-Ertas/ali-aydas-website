@@ -4,6 +4,7 @@ import HeroSection from "@/components/HeroSection"
 import About from "@/components/About"
 import AirdropSection from "@/components/AirdropSection"
 import HowToBuySection from "@/components/HowToBuy"
+import Footer from "@/components/Footer"
 
 export default function Home() {
   return (
@@ -23,6 +24,7 @@ export default function Home() {
         <AirdropSection />
         <About />
         <HowToBuySection/>
+        <Footer/>
       </main>
     </>
   )

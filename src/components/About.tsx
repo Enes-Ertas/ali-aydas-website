@@ -7,7 +7,7 @@ export default function About() {
         {/* Sol: Görsel */}
         <div className="flex-1 flex items-center justify-center">
   <Image
-    src="/about-logo-4.png"
+    src="/resim-3.png"
     alt="About Wickd"
     width={500}
     height={500}
